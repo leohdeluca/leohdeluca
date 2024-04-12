@@ -1,5 +1,11 @@
 <img src="https://offtheshelf.b-cdn.net/app/uploads/2022/09/BlurryBooksSpooky_iStock-135936275_OTS-1070x270.jpg" align="center" style="width: 80%" />
 
+Hola, soy Leonardo De Luca, estudiante de Licenciatura en Historia. En esta página de perfil encontrarán las actividades que fuí realizando y aquellas que estan en curso.
+
+Me pueden contactar por twitter:
+
+----
+
 #### Facultad de la Armada - Universidad de la Defensa Nacional
 - Posgrado de Historia Naval y Marítima Argentina (En curso)
 - Jornadas de Historia Naval y Marítima Argentina (2023)
