@@ -11,8 +11,6 @@ Me pueden encontrar en X y Academia:
 
 ----
 
-<img src="https://fadara.armada.mil.ar/assets/img/fadara-logo.png" align="center" style="width: 2%" />
-
 #### Facultad de la Armada - Universidad de la Defensa Nacional
 - Posgrado de Historia Naval y Marítima Argentina (En curso)
 - Jornadas de Historia Naval y Marítima Argentina (2023)
