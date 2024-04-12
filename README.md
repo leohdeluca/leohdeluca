@@ -3,14 +3,10 @@
 #### Formación con Angel Faretta
 
   - La filosofía política de los Corleone  
-  - El simbolismo de la nave
-  
-  - Drácula, Bram Stoker y el mitologema del vampiro
-  
-  - El concepto del cine (parte I | parte II)
-  
-  - Renacimiento y Barroco
-  
+  - El simbolismo de la nave 
+  - Drácula, Bram Stoker y el mitologema del vampiro  
+  - El concepto del cine (parte I | parte II) 
+  - Renacimiento y Barroco  
   - Edgar Poe: Lo fantástico y el cine
 
 
