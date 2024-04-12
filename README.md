@@ -4,10 +4,9 @@ Hola, soy Leonardo De Luca, estudiante de Licenciatura en Historia.
 
 En esta página de perfil iré agregando las actividades realizadas y aquellas en curso a lo largo de mi formación.
 
-Me pueden encontrar en Twitter y Academia.edu:
+Me pueden encontrar en Twitter y Academia:
 
 <a href="https://twitter.com/leo_deluca_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leo_deluca_" height="30" width="40" /></a>
-
 <a href="https://untref-ar.academia.edu/LeonardoDeLuca" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/academia-edu-icon_1088810-102.jpg" height="40" width="40" /></a>
 
 ----
