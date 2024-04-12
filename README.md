@@ -14,7 +14,8 @@ Biblioteca Agustiniana
       Dra. Estefanía Sottocorno (UBA/UNTREF)
     -Tu eres Pedro: "Las trayectorias de Pedro en la primera literatura cristiana"
       Dr. Mariano Splendido (CONICET-IdIHCS/UNLP)
-UNTREF - Licenciatura en Historia (2023)
+#### Universidad Nacional Tres de Febrero
+- Licenciatura en Historia (2023)
 #### Universidad Abierta Interamericana
 - Diplomatura Internacional en Psicopolítica y Transhumanismo (2023)
 
