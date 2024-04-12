@@ -2,8 +2,7 @@
 
 #### Formación con Angel Faretta
 
-  - La filosofía política de los Corleone
-  
+  - La filosofía política de los Corleone  
   - El simbolismo de la nave
   
   - Drácula, Bram Stoker y el mitologema del vampiro
