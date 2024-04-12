@@ -15,9 +15,10 @@
   - Edgar Poe: Lo fantástico y el cine
 
 
-#### Idioma Italiano A1 
-  -LA EDAD MEDIA EN TRES CAMINOS ENTRELAZADOS
-  -Introducción a la lengua griega (I y II)
+#### Asociación de Estudios humanisticos
+
+  - LA edad media en tres caminos entrelazados
+  - Introducción a la lengua griega (I y II)
 
 
 
