@@ -10,9 +10,9 @@
   - Edgar Poe: Lo fantástico y el cine
 
 
-#### Asociación de Estudios humanisticos
+#### Asociación de Estudios Humanísticos
 
-  - LA edad media en tres caminos entrelazados
+  - La edad media en tres caminos entrelazados
   - Introducción a la lengua griega (I y II)
 
 
