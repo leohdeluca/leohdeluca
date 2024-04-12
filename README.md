@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/premium-photo/row-old-books-isolated-black-background-banner_118047-7558.jpg" align="center" style="width: 100%" />
+<img src="https://img.freepik.com/premium-photo/row-old-books-isolated-black-background-banner_118047-7558.jpg" align="center" style="width: 50%" />
 
 #### Facultad de la Armada - Universidad de la Defensa Nacional
 - Posgrado de Historia Naval y Marítima Argentina (En curso)
