@@ -8,7 +8,7 @@ Me pueden encontrar en twitter:
 
 <a href="https://twitter.com/leo_deluca_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leo_deluca_" height="30" width="40" /></a>
 
-<a href="https://untref-ar.academia.edu/LeonardoDeLuca" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-academia-edu-3770769-3147386.png" /></a>
+<a href="https://untref-ar.academia.edu/LeonardoDeLuca" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/academia-edu-icon_1088810-102.jpg" height="40" width="40" /></a>
 
 ----
 
