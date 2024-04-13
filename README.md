@@ -9,6 +9,10 @@ Me pueden encontrar en X y Academia:
 
 ----
 ### Mis estudios y formación académica
+
+<span style="text-decoration: underline;">Hola, soy Leonardo De Luca, estudiante de Licenciatura en Historia.</span>
+
+
 #### Facultad de la Armada - Universidad de la Defensa Nacional
 - Posgrado de Historia Naval y Marítima Argentina (En curso)
 - Jornadas de Historia Naval y Marítima Argentina (2023)
