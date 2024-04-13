@@ -10,7 +10,7 @@ Me pueden encontrar en X y Academia:
 ----
 ### Mis estudios y formación académica
 
-<span style="text-decoration: underline;">Hola, soy Leonardo De Luca, estudiante de Licenciatura en Historia.</span>
+<u>Hola, soy Leonardo De Luca, estudiante de Licenciatura en Historia.</u>
 
 
 #### Facultad de la Armada - Universidad de la Defensa Nacional
