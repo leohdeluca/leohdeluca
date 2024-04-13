@@ -2,8 +2,6 @@
 
 Hola, soy Leonardo De Luca, estudiante de Licenciatura en Historia. 
 
-En esta página de perfil iré agregando las actividades realizadas y aquellas en curso a lo largo de mi formación.
-
 Me pueden encontrar en X y Academia:
 
 <a href="https://twitter.com/leo_deluca_" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="leo_deluca_" height="30" /></a>
