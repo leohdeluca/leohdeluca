@@ -8,11 +8,7 @@ Me pueden encontrar en X y Academia:
 <a href="https://untref-ar.academia.edu/LeonardoDeLuca" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494773.png" height="40" /></a>
 
 ----
-### Mis estudios y formación académica
-
-<u>Hola, soy Leonardo De Luca, estudiante de Licenciatura en Historia.</u>
-
-
+## Formación académica, cursos y actividades
 #### Facultad de la Armada - Universidad de la Defensa Nacional
 - Posgrado de Historia Naval y Marítima Argentina (En curso)
 - Jornadas de Historia Naval y Marítima Argentina (2023)
