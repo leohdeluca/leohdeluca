@@ -10,17 +10,17 @@ Me pueden encontrar en X y Academia:
 ----
 ## Formación académica, cursos y actividades
 #### Facultad de la Armada - Universidad de la Defensa Nacional
-- Posgrado de Historia Naval y Marítima Argentina (En curso)
-- Jornadas de Historia Naval y Marítima Argentina (2023)
+- Posgrado de Historia Naval y Marítima Argentina
+- Jornadas de Historia Naval y Marítima Argentina
 
 #### Universidad Nacional Tres de Febrero
 - Licenciatura en Historia (En curso)
 
 #### Universidad Abierta Interamericana
-- Diplomatura Internacional en Psicopolítica y Transhumanismo (2023)
+- Diplomatura Internacional en Psicopolítica y Transhumanismo
 
 #### Universidad del Salvador
-  - Diplomatura en estudios coreanos (En curso)
+  - Diplomatura en estudios coreanos
 
 #### Biblioteca Agustiniana
 - Introducción a los diálogos italianos de Giordano Bruno - Dr. Julián Barenstein (UBA-USAL-UNSAM-CONICET)
