@@ -1,4 +1,4 @@
-<picture><img src="https://cdn.plagiarismtoday.com/wp-content/uploads/2018/08/libraryofalexandria-589-sized.jpg" align="center" style="width: 10%" /> </picture>
+<picture><img src="https://cdn.plagiarismtoday.com/wp-content/uploads/2018/08/libraryofalexandria-589-sized.jpg" align="center" width="600" /> </picture>
 
 Hola, soy Leonardo De Luca, estudiante de Licenciatura en Historia. 
 
