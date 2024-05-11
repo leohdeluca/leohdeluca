@@ -1,4 +1,4 @@
-<picture><img src="https://offtheshelf.b-cdn.net/app/uploads/2022/09/BlurryBooksSpooky_iStock-135936275_OTS-1070x270.jpg" align="center" style="width: 80%" /> </picture>
+<picture><img src="https://cdn.plagiarismtoday.com/wp-content/uploads/2018/08/libraryofalexandria-589-sized.jpg" align="center" style="width: 10%" /> </picture>
 
 Hola, soy Leonardo De Luca, estudiante de Licenciatura en Historia. 
 
