@@ -10,7 +10,7 @@ Me pueden encontrar en X y Academia:
 ----
 ## Formación académica, cursos y actividades
 #### Facultad de la Armada - Universidad de la Defensa Nacional
-- Posgrado de Historia Naval y Marítima Argentina
+- Posgrado de Historia Naval y Marítima Argentina (En curso)
 - Jornadas de Historia Naval y Marítima Argentina
 
 #### Universidad Nacional Tres de Febrero
